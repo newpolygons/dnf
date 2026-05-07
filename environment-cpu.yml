@@ -7,7 +7,7 @@ channels:
 dependencies:
   - python>=3.8,<3.10
   - ffmpeg>=4.2
-  - pytorch>=1.8.1,<=2.7.0
+  - torch>=1.8.1,<=2.7.0
   - torchaudio>=0.8
   - tqdm>=4.36
   - numpy=2.2.6
